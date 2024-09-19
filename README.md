@@ -1,4 +1,18 @@
-# Welcome to your Expo app 👋
+# App Dieta.AI - 
+Aplicativo gerador de dieta através da utilização da AI
+| Fonte: https://www.youtube.com/@Sujeitoprogramador
+
+![image](https://github.com/user-attachments/assets/18e207a9-b3e2-4e22-be0b-65020209b75f)
+![image](https://github.com/user-attachments/assets/cd06dcc5-1f8f-45bf-a7d7-86e9031040db)
+![image](https://github.com/user-attachments/assets/c6975529-94e7-4f46-a570-0fb4db3dbd30)
+![image](https://github.com/user-attachments/assets/265e057f-8e9e-468f-b122-c907a92eafe6)
+![image](https://github.com/user-attachments/assets/c42e31e4-3313-44b6-9313-c4a68d979d95)
+![image](https://github.com/user-attachments/assets/98e122bc-9e02-4963-ae94-c6157f167cec)
+
+
+
+
+## Configuration
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
