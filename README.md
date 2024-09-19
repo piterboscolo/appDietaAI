@@ -4,10 +4,10 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## Get started
 
-1. Install dependencies
+1. Star Backend
 
    ```bash
-   npm install
+   npm run dev
    ```
 
 2. Start the app
